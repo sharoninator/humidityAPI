@@ -8,7 +8,7 @@ Here's how to get data from the humidity API I implemented:
 
             humidity_value = humidity_data.get("Humidity", "N/A")
 
-Mitigation plan:
+Communication Contract:
 
 The teammate I'm implementing this microservice for is Masseeh.
 The microservice I've implemented is complete.
